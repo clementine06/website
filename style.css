@@ -14,9 +14,9 @@ aside {
 }
 footer {
   grid-area: footer;
-  background: #F59BFE;
+  background: #CAF4ED;
 }
 article {
   grid-area: article;
-  background:#CAF4ED;
+  background:#ffffff;
 }
